@@ -354,14 +354,14 @@ local set_groups = function()
     ["NeoTreeTitleBar"] = { fg = c.gray05, bg = c.gray01 },
 
     -- Telescope
-    ["TelescopeBorder"] = { fg = c.bg, bg = c.gray4 },
+    ["TelescopeBorder"] = { fg = c.gray4, bg = c.gray4 },
     ["TelescopeNormal"] = { fg = c.fg, bg = c.bg },
     ["TelescopePreviewTitle"] = { fg = c.black, bg = c.green, bold = true },
     ["TelescopeResultsTitle"] = { fg = c.bg, bg = c.bg },
     ["TelescopePromptTitle"] = { fg = c.black, bg = c.cyan, bold = true },
     ["TelescopePromptBorder"] = { fg = c.gray04, bg = c.gray04 },
-    ["TelescopePromptNormal"] = { fg = c.gray06, bg = c.gray04 },
-    ["TelescopePromptCounter"] = { fg = c.gray04, bg = c.gray04 },
+    ["TelescopePromptNormal"] = { fg = c.gray06, bg = c.gray01 },
+    ["TelescopePromptCounter"] = { fg = c.gray04, bg = c.gray01 },
     ["TelescopeMatching"] = { fg = c.yellow, underline = true },
 
     -- Dap UI
