@@ -359,9 +359,9 @@ local set_groups = function()
     ["TelescopePreviewTitle"] = { fg = c.black, bg = c.green, bold = true },
     ["TelescopeResultsTitle"] = { fg = c.bg, bg = c.bg },
     ["TelescopePromptTitle"] = { fg = c.black, bg = c.cyan, bold = true },
-    ["TelescopePromptBorder"] = { fg = c.gray01, bg = c.gray01 },
-    ["TelescopePromptNormal"] = { fg = c.gray06, bg = c.gray01 },
-    ["TelescopePromptCounter"] = { fg = c.gray04, bg = c.gray01 },
+    ["TelescopePromptBorder"] = { fg = c.gray06, bg = c.gray06 },
+    ["TelescopePromptNormal"] = { fg = c.gray06, bg = c.gray06 },
+    ["TelescopePromptCounter"] = { fg = c.gray04, bg = c.gray06 },
     ["TelescopeMatching"] = { fg = c.yellow, underline = true },
 
     -- Dap UI
