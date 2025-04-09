@@ -354,7 +354,7 @@ local set_groups = function()
     ["NeoTreeTitleBar"] = { fg = c.gray05, bg = c.gray01 },
 
     -- Telescope
-    ["TelescopeBorder"] = { fg = c.gray4, bg = c.gray4 },
+    ["TelescopeBorder"] = { fg = c.gray04, bg = c.gray04 },
     ["TelescopeNormal"] = { fg = c.fg, bg = c.bg },
     ["TelescopePreviewTitle"] = { fg = c.black, bg = c.green, bold = true },
     ["TelescopeResultsTitle"] = { fg = c.bg, bg = c.bg },
